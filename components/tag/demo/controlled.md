@@ -18,7 +18,7 @@ import { Tag, Button } from 'antd';
 
 class Demo extends React.Component {
   state = {
-    visible: true,
+    visible: false,
   }
 
   render() {
